@@ -30,6 +30,6 @@
 - Babel is a compiler/transpiler that can transform JSX and modern JavaScript features into code that current browsers understand.
 - When learning without a build step you can include Babel via `<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>` and mark scripts with `type="text/babel"`. For production bundles you precompile JSX with Babel (or another tool) before shipping so you serve plain JavaScript.
 
----
-
+**Key takeaway:** React gives you the component model; renderers such as React DOM or React Native connect that model to the target platform, and tools like Babel turn your JSX into executable JavaScript.
+=======
 **Key takeaway:** React gives you the component model; renderers such as React DOM or React Native connect that model to the target platform, and tools like Babel turn your JSX into executable JavaScript.
