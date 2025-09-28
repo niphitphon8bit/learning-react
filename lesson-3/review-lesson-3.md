@@ -1,0 +1,11 @@
+# React lesson 3
+- saving data by using arrays and objects
+- using map() and key props for reuse component with data
+- make it interactive with onClick, onChange, onKeyDown
+- state is the data that changes over time, and is connected to the HTML
+- Updater function is update the state and update the HTML
+- Array Destructuring
+- state, event handler, chatbot project feature.
+- Lifting the state up = share state between components
+- Made <ChatInput> interactive
+- Mock response from the Chatbot by external library.
